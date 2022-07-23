@@ -77,15 +77,15 @@ font-size: 45px;
                     margin-top: 3px;
                     color: rgb(153, 145, 145);;
                 }
+                #name{
+                    margin-bottom: 30px;
+                }
                 .log{
-                    width: 60%;
-                    height: 38px;
                     background-color: rgb(15, 71, 241); 
                     color: white;
                     font-size: 15px;
                     border: 0px;
                     border-radius: 3px;
-                    margin-top: 30px;
                 }
                 #container>p{
                     font-size: 14px;
