@@ -79,14 +79,14 @@ font-size: 45px;
             height: 34px;
         }
         .log{
-            width: 78%;
-            height: 35px;
             background-color: rgb(15, 71, 241); 
             color: white;
             font-size: 15px;
             border: 0px;
             border-radius: 3px;
-            margin-top: 30px;
+        }
+        #psswd{
+            margin-bottom: 30px;
         }
         .blue{
             width: 350px;
