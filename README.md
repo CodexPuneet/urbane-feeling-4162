@@ -39,6 +39,10 @@ Technologies used in the project:
 **Single Sign On:**
 ![SSO](https://user-images.githubusercontent.com/103636380/215679027-8cd49051-9e5d-42cd-ab92-95fdab6374c2.png)
 
+**Mentimeter:**
+![Inders](https://user-images.githubusercontent.com/103636380/215680763-4738ae43-0498-4d05-a4cd-7648e25bb496.png)
+
+
 
 **Footer:**
 ![Footer](https://user-images.githubusercontent.com/103636380/215679086-adff09a5-936b-4ea6-8603-3c74fffc95bb.png)
@@ -54,64 +58,18 @@ Technologies used in the project:
 
 ## 🚀 Demo
 
-**Front-end deployed URL:**
+** Deployed URL:**
 
-https://shopqmart.vercel.app/
-<br/>
-https://singular-sundae-186837.netlify.app/
+https://mentimeterbypuneetcom.netlify.app/
 
-**Back-end deployed URL:**
 
-https://splendid-bear-cap.cyclic.app/
 
-##  📁 Folder structure
-#### `Frontend` - Holds the client application
-- #### `public` - This holds all of our static files
-- #### `src`
-    - #### `assets` - This folder holds assets such as images, docs, and fonts
-    - #### `components` - This folder holds all of the different components that will make up our pages
-    - #### `pages` - These represent a unique page on the website i.e. Home or About. 
-    - #### `redux` - It consists of store, reducer, action and actiontypes and is responsible for global state management of our app.
-    - #### `App.js` - This is what renders all of our browser routes and different pages
-    - #### `index.js` - This is what renders the react app by rendering App.js.
-- #### `package.json` - Defines npm behaviors and packages for the client
-#### `Backend` - Holds the server application
-- #### `config` - This holds our configuration files, like mongoDB uri
-- #### `middlewares` - This holds all our middlewares used in our application
-- #### `models` - This holds all of our data models or business logic
-- #### `routes/controllers` - This holds all of our HTTP to URL path associations for each unique url
-- #### `index.js` - An entry file for our Node JS application
-#### `package.json` - Defines npm behaviors like the scripts defined in the next section of the README
-#### `.gitignore` - Tells git which files to ignore
-#### `README` - This file!
+
 # Installation
 
 Clone the project
 ```bash
 git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
-```
-## Client-side usage
-
-Go to the project directory
-
-```bash
-$ cd frontend          // go to client folder
-$ yarn # or npm i    // npm install packages
-$ npm run start        // run it locally
-
-// deployment for client app
-$ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
-```
-## Server-side usage
-
-**Environment Variables:-**
-
-To run this project, you will need to add the following environment variables to your .env file
-
-```
-port                    // the port on which the server will run
-mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
-key                     // key which will be JWT secret key 
 ```
 
 **Start**
