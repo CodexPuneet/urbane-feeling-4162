@@ -75,17 +75,8 @@ git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
 **Start**
 
 ```bash
-$ cd backend            // go to server folder
-$ npm i                 // npm install packages
-$ npm run server        // run it locally
+$ run index.js        // run it locally
 ```
-## ✍ Authors 
 
-- [@Harshank11](https://github.com/Harshank11)
-- [@Gurjazz18](https://github.com/gurjazz18)
-- [@sbj1198](https://github.com/sbj1198)
-- [@SCjadhav21](https://www.github.com/SCjadhav21)
-- [@CodexPuneet](https://www.github.com/CodexPuneet)
-##
 This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
        
