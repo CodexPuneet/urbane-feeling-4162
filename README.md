@@ -78,5 +78,5 @@ git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
 $ run index.js        // run it locally
 ```
 
-This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
+This project was a part of my learning and I have implimented to the best of my knowledge HTML, CSS and Vanilla Javascript to build this.
        
